@@ -1,0 +1,24 @@
+TVD:0.024014393929718506
+
+Marginals:
+Node: window
+  mean=0.734988	true mean=0.0
+
+Node: sill
+  mean=0.153454	true mean=0.1282051282051282
+
+
+Pairwise:
+
+	Fake:
+sill           0         1       All
+window                              
+0       0.224672  0.040340  0.265012
+1       0.621874  0.113114  0.734988
+All     0.846546  0.153454  1.000000
+	Real:
+sill         0.0       1.0  All
+window                         
+0.0     0.871795  0.128205  1.0
+All     0.871795  0.128205  1.0
+

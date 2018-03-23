@@ -1,0 +1,25 @@
+TVD:0.04154512115064737
+
+Marginals:
+Node: Male
+  mean=0.40394	true mean=0.41675427815537097
+
+Node: Mustache
+  mean=0.0	true mean=0.04154512115064734
+
+
+Pairwise:
+
+	Fake:
+Mustache        0      All
+Male                      
+0         0.59606  0.59606
+1         0.40394  0.40394
+All       1.00000  1.00000
+	Real:
+Mustache       0.0       1.0       All
+Male                                  
+0.0       0.583231  0.000015  0.583246
+1.0       0.375224  0.041530  0.416754
+All       0.958455  0.041545  1.000000
+

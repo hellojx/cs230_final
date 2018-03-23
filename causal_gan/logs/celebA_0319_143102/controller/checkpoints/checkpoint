@@ -1,0 +1,3 @@
+model_checkpoint_path: "CC-Model-3001"
+all_model_checkpoint_paths: "CC-Model-2001"
+all_model_checkpoint_paths: "CC-Model-3001"

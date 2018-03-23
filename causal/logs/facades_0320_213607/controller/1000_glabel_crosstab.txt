@@ -1,0 +1,24 @@
+TVD:0.1825
+
+Marginals:
+Node: window
+  mean=1.0	true mean=0.995
+
+Node: cornice
+  mean=1.0	true mean=0.82
+
+
+Pairwise:
+
+	Fake:
+cornice    1  All
+window           
+1        1.0  1.0
+All      1.0  1.0
+	Real:
+cornice     0.0     1.0    All
+window                        
+0.0      0.0025  0.0025  0.005
+1.0      0.1775  0.8175  0.995
+All      0.1800  0.8200  1.000
+
